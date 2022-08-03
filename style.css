@@ -1,0 +1,32 @@
+
+body {
+	background-color: #D90B6E;
+}
+
+header, footer {
+	background-color: rgb(217,196,36);
+
+
+}
+
+main {
+
+background-color: #E5C1D9;
+
+}
+
+h3 {
+	text-align: center;
+	color:black;
+
+}
+
+b {
+	color: black;
+	font-size: 30px;
+}
+
+i { color: black;
+font-size: 40px;
+ }
+

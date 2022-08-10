@@ -9,6 +9,15 @@ header, footer {
 
 }
 
+#imagemprincipal{
+	width: 80%;
+	height: 400px;
+	border: 2px solid black;
+	padding: 20px;
+	margin: 20px;
+
+
+}
 main {
 
 background-color: #E5C1D9;
@@ -26,7 +35,14 @@ b {
 	font-size: 30px;
 }
 
-i { color: black;
+#paragrafodiferente {
+	color: darkred;
+	font-size: 50px;
+
+
+}
+
+i {
 font-size: 40px;
  }
 

@@ -46,3 +46,25 @@ i {
 font-size: 40px;
  }
 
+ .momentos {
+ 	background-color: gray;
+ 	padding: in;
+ 	margin: 10px;
+ 	border: black solid 2px;
+ }
+
+ #imagemlateral {
+ 	display:inline-block ;
+ 	width: 30%;
+ 	height: inherit;
+ 	vertical-align: top;
+ }
+
+ .lista {
+ 	display:inline-block ;
+ 	font-size: 40px;
+ }
+ 
+ ul li::marker {
+ 	content: "🥙";
+ }

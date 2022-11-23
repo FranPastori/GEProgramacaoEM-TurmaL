@@ -1,6 +1,6 @@
 
 body {
-	background-color: #D90B6E;
+	background-color: black;
 	font-family: 'BhuTuka Expanded One', cursive;
 	font-weight: 600;
 
@@ -85,14 +85,32 @@ h3 {
  }
 
  #imagemlateral {
- 	display:inline-block ;
- 	width: 30%;
+ 	display:block ;
+ 	width: 10%;
  	height: inherit;
- 	vertical-align: top;
+
  	
  }
 
  .lista {
- 	display:inline-block ;
- 	font-size: 40px;
+ 	display:inline ;
+ 	font-size: 33%px;
  }
+.imagemlista {
+	display: inline;
+	width: 25%;
+	height:inherit;
+	color : red;
+}
+.paragafo__lista {
+	display: inline;
+	width: 25%;
+	height:inherit;
+}
+
+.tiulo__lista{
+
+	display: inline;
+	width: 25%;
+	height:inherit;	
+}

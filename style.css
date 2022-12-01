@@ -148,10 +148,12 @@ transform: scale(0.8);
 	background-color: rgba(0,0,0,0.8);
 
 }
-footer {
+footer::fir {
 	background-color: rgb(255, 235, 85);
 	text-align: center;
 	background-image: url(https://png.pngtree.com/png-vector/20220917/ourmid/pngtree-seamless-pattern-cartoon-floral-png-image_6181792.png);
 	height: 200px;
 	background-size: 10% ;
+
+
 }
